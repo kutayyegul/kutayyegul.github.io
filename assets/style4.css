@@ -11,7 +11,7 @@ html, body {
 
 .jumbotron {
   /*background: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.png) no-repeat center center;*/
-  background: url("img/galaxy-min.jpg") no-repeat center center;
+  background: url(img/galaxy-min.jpg) no-repeat center center;
   background-size: cover;
   height: 400px;
 }
